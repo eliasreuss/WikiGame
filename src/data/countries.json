@@ -1,0 +1,1202 @@
+[
+ {
+  "qid": "Q889",
+  "name": "Afghanistan",
+  "iso2": "af",
+  "lat": 33,
+  "lon": 66,
+  "wikiTitle": "Afghanistan"
+ },
+ {
+  "qid": "Q222",
+  "name": "Albania",
+  "iso2": "al",
+  "lat": 41,
+  "lon": 20,
+  "wikiTitle": "Albania"
+ },
+ {
+  "qid": "Q262",
+  "name": "Algeria",
+  "iso2": "dz",
+  "lat": 28,
+  "lon": 1,
+  "wikiTitle": "Algeria"
+ },
+ {
+  "qid": "Q916",
+  "name": "Angola",
+  "iso2": "ao",
+  "lat": -12.35,
+  "lon": 17.35,
+  "wikiTitle": "Angola"
+ },
+ {
+  "qid": "Q414",
+  "name": "Argentina",
+  "iso2": "ar",
+  "lat": -34,
+  "lon": -64,
+  "wikiTitle": "Argentina"
+ },
+ {
+  "qid": "Q399",
+  "name": "Armenia",
+  "iso2": "am",
+  "lat": 40.3833,
+  "lon": 44.95,
+  "wikiTitle": "Armenia"
+ },
+ {
+  "qid": "Q408",
+  "name": "Australia",
+  "iso2": "au",
+  "lat": -25,
+  "lon": 133,
+  "wikiTitle": "Australia"
+ },
+ {
+  "qid": "Q40",
+  "name": "Austria",
+  "iso2": "at",
+  "lat": 48,
+  "lon": 14,
+  "wikiTitle": "Austria"
+ },
+ {
+  "qid": "Q227",
+  "name": "Azerbaijan",
+  "iso2": "az",
+  "lat": 40.3,
+  "lon": 47.7,
+  "wikiTitle": "Azerbaijan"
+ },
+ {
+  "qid": "Q902",
+  "name": "Bangladesh",
+  "iso2": "bd",
+  "lat": 24.0167,
+  "lon": 89.8667,
+  "wikiTitle": "Bangladesh"
+ },
+ {
+  "qid": "Q184",
+  "name": "Belarus",
+  "iso2": "by",
+  "lat": 53.5283,
+  "lon": 28.0467,
+  "wikiTitle": "Belarus"
+ },
+ {
+  "qid": "Q31",
+  "name": "Belgium",
+  "iso2": "be",
+  "lat": 50.6411,
+  "lon": 4.6681,
+  "wikiTitle": "Belgium"
+ },
+ {
+  "qid": "Q962",
+  "name": "Benin",
+  "iso2": "bj",
+  "lat": 8.8333,
+  "lon": 2.1833,
+  "wikiTitle": "Benin"
+ },
+ {
+  "qid": "Q750",
+  "name": "Bolivia",
+  "iso2": "bo",
+  "lat": -17.0569,
+  "lon": -64.9912,
+  "wikiTitle": "Bolivia"
+ },
+ {
+  "qid": "Q225",
+  "name": "Bosnia and Herzegovina",
+  "iso2": "ba",
+  "lat": 44,
+  "lon": 18,
+  "wikiTitle": "Bosnia_and_Herzegovina"
+ },
+ {
+  "qid": "Q963",
+  "name": "Botswana",
+  "iso2": "bw",
+  "lat": -22.2,
+  "lon": 23.7,
+  "wikiTitle": "Botswana"
+ },
+ {
+  "qid": "Q155",
+  "name": "Brazil",
+  "iso2": "br",
+  "lat": -14,
+  "lon": -53,
+  "wikiTitle": "Brazil"
+ },
+ {
+  "qid": "Q219",
+  "name": "Bulgaria",
+  "iso2": "bg",
+  "lat": 42.75,
+  "lon": 25.5,
+  "wikiTitle": "Bulgaria"
+ },
+ {
+  "qid": "Q965",
+  "name": "Burkina Faso",
+  "iso2": "bf",
+  "lat": 12.2667,
+  "lon": -2.0667,
+  "wikiTitle": "Burkina_Faso"
+ },
+ {
+  "qid": "Q967",
+  "name": "Burundi",
+  "iso2": "bi",
+  "lat": -3.6667,
+  "lon": 29.8167,
+  "wikiTitle": "Burundi"
+ },
+ {
+  "qid": "Q424",
+  "name": "Cambodia",
+  "iso2": "kh",
+  "lat": 12.5,
+  "lon": 105,
+  "wikiTitle": "Cambodia"
+ },
+ {
+  "qid": "Q1009",
+  "name": "Cameroon",
+  "iso2": "cm",
+  "lat": 5.1333,
+  "lon": 12.65,
+  "wikiTitle": "Cameroon"
+ },
+ {
+  "qid": "Q16",
+  "name": "Canada",
+  "iso2": "ca",
+  "lat": 56,
+  "lon": -109,
+  "wikiTitle": "Canada"
+ },
+ {
+  "qid": "Q929",
+  "name": "Central African Republic",
+  "iso2": "cf",
+  "lat": 6.7,
+  "lon": 20.9,
+  "wikiTitle": "Central_African_Republic"
+ },
+ {
+  "qid": "Q657",
+  "name": "Chad",
+  "iso2": "td",
+  "lat": 15.4667,
+  "lon": 19.4,
+  "wikiTitle": "Chad"
+ },
+ {
+  "qid": "Q298",
+  "name": "Chile",
+  "iso2": "cl",
+  "lat": -33,
+  "lon": -71,
+  "wikiTitle": "Chile"
+ },
+ {
+  "qid": "Q148",
+  "name": "China",
+  "iso2": "cn",
+  "lat": 35.8447,
+  "lon": 103.4519,
+  "wikiTitle": "China"
+ },
+ {
+  "qid": "Q739",
+  "name": "Colombia",
+  "iso2": "co",
+  "lat": 4,
+  "lon": -73.25,
+  "wikiTitle": "Colombia"
+ },
+ {
+  "qid": "Q800",
+  "name": "Costa Rica",
+  "iso2": "cr",
+  "lat": 10,
+  "lon": -84,
+  "wikiTitle": "Costa_Rica"
+ },
+ {
+  "qid": "Q224",
+  "name": "Croatia",
+  "iso2": "hr",
+  "lat": 45.25,
+  "lon": 15.4667,
+  "wikiTitle": "Croatia"
+ },
+ {
+  "qid": "Q241",
+  "name": "Cuba",
+  "iso2": "cu",
+  "lat": 22,
+  "lon": -79.5,
+  "wikiTitle": "Cuba"
+ },
+ {
+  "qid": "Q213",
+  "name": "Czechia",
+  "iso2": "cz",
+  "lat": 50,
+  "lon": 15,
+  "wikiTitle": "Czech_Republic"
+ },
+ {
+  "qid": "Q974",
+  "name": "Democratic Republic of the Congo",
+  "iso2": "cd",
+  "lat": -2.88,
+  "lon": 23.6561,
+  "wikiTitle": "Democratic_Republic_of_the_Congo"
+ },
+ {
+  "qid": "Q35",
+  "name": "Denmark",
+  "iso2": "dk",
+  "lat": 56,
+  "lon": 10,
+  "wikiTitle": "Denmark"
+ },
+ {
+  "qid": "Q786",
+  "name": "Dominican Republic",
+  "iso2": "do",
+  "lat": 18.8,
+  "lon": -70.2,
+  "wikiTitle": "Dominican_Republic"
+ },
+ {
+  "qid": "Q736",
+  "name": "Ecuador",
+  "iso2": "ec",
+  "lat": -1,
+  "lon": -78,
+  "wikiTitle": "Ecuador"
+ },
+ {
+  "qid": "Q79",
+  "name": "Egypt",
+  "iso2": "eg",
+  "lat": 27,
+  "lon": 29,
+  "wikiTitle": "Egypt"
+ },
+ {
+  "qid": "Q792",
+  "name": "El Salvador",
+  "iso2": "sv",
+  "lat": 13.6689,
+  "lon": -88.8661,
+  "wikiTitle": "El_Salvador"
+ },
+ {
+  "qid": "Q983",
+  "name": "Equatorial Guinea",
+  "iso2": "gq",
+  "lat": 1.5,
+  "lon": 10,
+  "wikiTitle": "Equatorial_Guinea"
+ },
+ {
+  "qid": "Q986",
+  "name": "Eritrea",
+  "iso2": "er",
+  "lat": 15.4833,
+  "lon": 38.25,
+  "wikiTitle": "Eritrea"
+ },
+ {
+  "qid": "Q115",
+  "name": "Ethiopia",
+  "iso2": "et",
+  "lat": 9,
+  "lon": 40,
+  "wikiTitle": "Ethiopia"
+ },
+ {
+  "qid": "Q33",
+  "name": "Finland",
+  "iso2": "fi",
+  "lat": 65,
+  "lon": 27,
+  "wikiTitle": "Finland"
+ },
+ {
+  "qid": "Q142",
+  "name": "France",
+  "iso2": "fr",
+  "lat": 47,
+  "lon": 2,
+  "wikiTitle": "France"
+ },
+ {
+  "qid": "Q1000",
+  "name": "Gabon",
+  "iso2": "ga",
+  "lat": -0.6833,
+  "lon": 11.5,
+  "wikiTitle": "Gabon"
+ },
+ {
+  "qid": "Q1005",
+  "name": "Gambia",
+  "iso2": "gm",
+  "lat": 13.5,
+  "lon": -15.5,
+  "wikiTitle": "The_Gambia"
+ },
+ {
+  "qid": "Q230",
+  "name": "Georgia",
+  "iso2": "ge",
+  "lat": 42,
+  "lon": 44,
+  "wikiTitle": "Georgia_(country)"
+ },
+ {
+  "qid": "Q183",
+  "name": "Germany",
+  "iso2": "de",
+  "lat": 51,
+  "lon": 10,
+  "wikiTitle": "Germany"
+ },
+ {
+  "qid": "Q117",
+  "name": "Ghana",
+  "iso2": "gh",
+  "lat": 7.9465,
+  "lon": -1.0232,
+  "wikiTitle": "Ghana"
+ },
+ {
+  "qid": "Q41",
+  "name": "Greece",
+  "iso2": "gr",
+  "lat": 38.5,
+  "lon": 23,
+  "wikiTitle": "Greece"
+ },
+ {
+  "qid": "Q774",
+  "name": "Guatemala",
+  "iso2": "gt",
+  "lat": 15.5,
+  "lon": -90.25,
+  "wikiTitle": "Guatemala"
+ },
+ {
+  "qid": "Q1006",
+  "name": "Guinea",
+  "iso2": "gn",
+  "lat": 10,
+  "lon": -11,
+  "wikiTitle": "Guinea"
+ },
+ {
+  "qid": "Q1007",
+  "name": "Guinea-Bissau",
+  "iso2": "gw",
+  "lat": 12,
+  "lon": -15,
+  "wikiTitle": "Guinea-Bissau"
+ },
+ {
+  "qid": "Q790",
+  "name": "Haiti",
+  "iso2": "ht",
+  "lat": 19,
+  "lon": -72.8,
+  "wikiTitle": "Haiti"
+ },
+ {
+  "qid": "Q783",
+  "name": "Honduras",
+  "iso2": "hn",
+  "lat": 14.6333,
+  "lon": -86.8167,
+  "wikiTitle": "Honduras"
+ },
+ {
+  "qid": "Q28",
+  "name": "Hungary",
+  "iso2": "hu",
+  "lat": 47,
+  "lon": 19,
+  "wikiTitle": "Hungary"
+ },
+ {
+  "qid": "Q668",
+  "name": "India",
+  "iso2": "in",
+  "lat": 22.8,
+  "lon": 83,
+  "wikiTitle": "India"
+ },
+ {
+  "qid": "Q252",
+  "name": "Indonesia",
+  "iso2": "id",
+  "lat": -2,
+  "lon": 118,
+  "wikiTitle": "Indonesia"
+ },
+ {
+  "qid": "Q794",
+  "name": "Iran",
+  "iso2": "ir",
+  "lat": 32,
+  "lon": 53,
+  "wikiTitle": "Iran"
+ },
+ {
+  "qid": "Q796",
+  "name": "Iraq",
+  "iso2": "iq",
+  "lat": 33,
+  "lon": 43,
+  "wikiTitle": "Iraq"
+ },
+ {
+  "qid": "Q27",
+  "name": "Ireland",
+  "iso2": "ie",
+  "lat": 53,
+  "lon": -8,
+  "wikiTitle": "Republic_of_Ireland"
+ },
+ {
+  "qid": "Q801",
+  "name": "Israel",
+  "iso2": "il",
+  "lat": 31,
+  "lon": 35,
+  "wikiTitle": "Israel"
+ },
+ {
+  "qid": "Q38",
+  "name": "Italy",
+  "iso2": "it",
+  "lat": 42.5,
+  "lon": 12.5,
+  "wikiTitle": "Italy"
+ },
+ {
+  "qid": "Q1008",
+  "name": "Ivory Coast",
+  "iso2": "ci",
+  "lat": 8,
+  "lon": -6,
+  "wikiTitle": "Ivory_Coast"
+ },
+ {
+  "qid": "Q766",
+  "name": "Jamaica",
+  "iso2": "jm",
+  "lat": 18.18,
+  "lon": -77.4,
+  "wikiTitle": "Jamaica"
+ },
+ {
+  "qid": "Q17",
+  "name": "Japan",
+  "iso2": "jp",
+  "lat": 35,
+  "lon": 136,
+  "wikiTitle": "Japan"
+ },
+ {
+  "qid": "Q810",
+  "name": "Jordan",
+  "iso2": "jo",
+  "lat": 31.2,
+  "lon": 36.5,
+  "wikiTitle": "Jordan"
+ },
+ {
+  "qid": "Q232",
+  "name": "Kazakhstan",
+  "iso2": "kz",
+  "lat": 48,
+  "lon": 68,
+  "wikiTitle": "Kazakhstan"
+ },
+ {
+  "qid": "Q114",
+  "name": "Kenya",
+  "iso2": "ke",
+  "lat": 0.1,
+  "lon": 38,
+  "wikiTitle": "Kenya"
+ },
+ {
+  "qid": "Q817",
+  "name": "Kuwait",
+  "iso2": "kw",
+  "lat": 29.1667,
+  "lon": 47.6,
+  "wikiTitle": "Kuwait"
+ },
+ {
+  "qid": "Q813",
+  "name": "Kyrgyzstan",
+  "iso2": "kg",
+  "lat": 41,
+  "lon": 75,
+  "wikiTitle": "Kyrgyzstan"
+ },
+ {
+  "qid": "Q819",
+  "name": "Laos",
+  "iso2": "la",
+  "lat": 18.2,
+  "lon": 104.1,
+  "wikiTitle": "Laos"
+ },
+ {
+  "qid": "Q211",
+  "name": "Latvia",
+  "iso2": "lv",
+  "lat": 57,
+  "lon": 25,
+  "wikiTitle": "Latvia"
+ },
+ {
+  "qid": "Q822",
+  "name": "Lebanon",
+  "iso2": "lb",
+  "lat": 33.8333,
+  "lon": 35.7667,
+  "wikiTitle": "Lebanon"
+ },
+ {
+  "qid": "Q1013",
+  "name": "Lesotho",
+  "iso2": "ls",
+  "lat": -29.55,
+  "lon": 28.25,
+  "wikiTitle": "Lesotho"
+ },
+ {
+  "qid": "Q1014",
+  "name": "Liberia",
+  "iso2": "lr",
+  "lat": 6.5333,
+  "lon": -9.75,
+  "wikiTitle": "Liberia"
+ },
+ {
+  "qid": "Q1016",
+  "name": "Libya",
+  "iso2": "ly",
+  "lat": 27,
+  "lon": 17,
+  "wikiTitle": "Libya"
+ },
+ {
+  "qid": "Q37",
+  "name": "Lithuania",
+  "iso2": "lt",
+  "lat": 55.2,
+  "lon": 24,
+  "wikiTitle": "Lithuania"
+ },
+ {
+  "qid": "Q1019",
+  "name": "Madagascar",
+  "iso2": "mg",
+  "lat": -20,
+  "lon": 47,
+  "wikiTitle": "Madagascar"
+ },
+ {
+  "qid": "Q1020",
+  "name": "Malawi",
+  "iso2": "mw",
+  "lat": -13,
+  "lon": 34,
+  "wikiTitle": "Malawi"
+ },
+ {
+  "qid": "Q833",
+  "name": "Malaysia",
+  "iso2": "my",
+  "lat": 3.7805,
+  "lon": 102.3144,
+  "wikiTitle": "Malaysia"
+ },
+ {
+  "qid": "Q912",
+  "name": "Mali",
+  "iso2": "ml",
+  "lat": 17,
+  "lon": -4,
+  "wikiTitle": "Mali"
+ },
+ {
+  "qid": "Q1025",
+  "name": "Mauritania",
+  "iso2": "mr",
+  "lat": 21,
+  "lon": -11,
+  "wikiTitle": "Mauritania"
+ },
+ {
+  "qid": "Q96",
+  "name": "Mexico",
+  "iso2": "mx",
+  "lat": 23,
+  "lon": -102,
+  "wikiTitle": "Mexico"
+ },
+ {
+  "qid": "Q217",
+  "name": "Moldova",
+  "iso2": "md",
+  "lat": 47.25,
+  "lon": 28.5167,
+  "wikiTitle": "Moldova"
+ },
+ {
+  "qid": "Q711",
+  "name": "Mongolia",
+  "iso2": "mn",
+  "lat": 46,
+  "lon": 105,
+  "wikiTitle": "Mongolia"
+ },
+ {
+  "qid": "Q1028",
+  "name": "Morocco",
+  "iso2": "ma",
+  "lat": 32,
+  "lon": -6,
+  "wikiTitle": "Morocco"
+ },
+ {
+  "qid": "Q1029",
+  "name": "Mozambique",
+  "iso2": "mz",
+  "lat": -19,
+  "lon": 35,
+  "wikiTitle": "Mozambique"
+ },
+ {
+  "qid": "Q836",
+  "name": "Myanmar",
+  "iso2": "mm",
+  "lat": 22,
+  "lon": 96,
+  "wikiTitle": "Myanmar"
+ },
+ {
+  "qid": "Q1030",
+  "name": "Namibia",
+  "iso2": "na",
+  "lat": -23,
+  "lon": 17,
+  "wikiTitle": "Namibia"
+ },
+ {
+  "qid": "Q837",
+  "name": "Nepal",
+  "iso2": "np",
+  "lat": 28,
+  "lon": 84,
+  "wikiTitle": "Nepal"
+ },
+ {
+  "qid": "Q29999",
+  "name": "Netherlands",
+  "iso2": "nl",
+  "lat": 52.3667,
+  "lon": 4.8833,
+  "wikiTitle": "Kingdom_of_the_Netherlands"
+ },
+ {
+  "qid": "Q664",
+  "name": "New Zealand",
+  "iso2": "nz",
+  "lat": -41.2,
+  "lon": 174,
+  "wikiTitle": "New_Zealand"
+ },
+ {
+  "qid": "Q811",
+  "name": "Nicaragua",
+  "iso2": "ni",
+  "lat": 13,
+  "lon": -85,
+  "wikiTitle": "Nicaragua"
+ },
+ {
+  "qid": "Q1032",
+  "name": "Niger",
+  "iso2": "ne",
+  "lat": 17,
+  "lon": 10,
+  "wikiTitle": "Niger"
+ },
+ {
+  "qid": "Q1033",
+  "name": "Nigeria",
+  "iso2": "ng",
+  "lat": 9,
+  "lon": 8,
+  "wikiTitle": "Nigeria"
+ },
+ {
+  "qid": "Q423",
+  "name": "North Korea",
+  "iso2": "kp",
+  "lat": 40,
+  "lon": 127,
+  "wikiTitle": "North_Korea"
+ },
+ {
+  "qid": "Q221",
+  "name": "North Macedonia",
+  "iso2": "mk",
+  "lat": 41.65,
+  "lon": 21.7167,
+  "wikiTitle": "North_Macedonia"
+ },
+ {
+  "qid": "Q20",
+  "name": "Norway",
+  "iso2": "no",
+  "lat": 59.9333,
+  "lon": 10.6833,
+  "wikiTitle": "Norway"
+ },
+ {
+  "qid": "Q842",
+  "name": "Oman",
+  "iso2": "om",
+  "lat": 21,
+  "lon": 57,
+  "wikiTitle": "Oman"
+ },
+ {
+  "qid": "Q843",
+  "name": "Pakistan",
+  "iso2": "pk",
+  "lat": 30,
+  "lon": 71,
+  "wikiTitle": "Pakistan"
+ },
+ {
+  "qid": "Q219060",
+  "name": "Palestine",
+  "iso2": "ps",
+  "lat": 32,
+  "lon": 35.25,
+  "wikiTitle": "Palestine"
+ },
+ {
+  "qid": "Q804",
+  "name": "Panama",
+  "iso2": "pa",
+  "lat": 8.6167,
+  "lon": -80.3667,
+  "wikiTitle": "Panama"
+ },
+ {
+  "qid": "Q691",
+  "name": "Papua New Guinea",
+  "iso2": "pg",
+  "lat": -6.3,
+  "lon": 147,
+  "wikiTitle": "Papua_New_Guinea"
+ },
+ {
+  "qid": "Q733",
+  "name": "Paraguay",
+  "iso2": "py",
+  "lat": -23.5,
+  "lon": -58,
+  "wikiTitle": "Paraguay"
+ },
+ {
+  "qid": "Q419",
+  "name": "Peru",
+  "iso2": "pe",
+  "lat": -9.4,
+  "lon": -76,
+  "wikiTitle": "Peru"
+ },
+ {
+  "qid": "Q928",
+  "name": "Philippines",
+  "iso2": "ph",
+  "lat": 12,
+  "lon": 123,
+  "wikiTitle": "Philippines"
+ },
+ {
+  "qid": "Q36",
+  "name": "Poland",
+  "iso2": "pl",
+  "lat": 52,
+  "lon": 19,
+  "wikiTitle": "Poland"
+ },
+ {
+  "qid": "Q45",
+  "name": "Portugal",
+  "iso2": "pt",
+  "lat": 38.7,
+  "lon": -9.1833,
+  "wikiTitle": "Portugal"
+ },
+ {
+  "qid": "Q846",
+  "name": "Qatar",
+  "iso2": "qa",
+  "lat": 25.2695,
+  "lon": 51.2128,
+  "wikiTitle": "Qatar"
+ },
+ {
+  "qid": "Q971",
+  "name": "Republic of the Congo",
+  "iso2": "cg",
+  "lat": -0.75,
+  "lon": 15.3833,
+  "wikiTitle": "Republic_of_the_Congo"
+ },
+ {
+  "qid": "Q218",
+  "name": "Romania",
+  "iso2": "ro",
+  "lat": 46,
+  "lon": 25,
+  "wikiTitle": "Romania"
+ },
+ {
+  "qid": "Q159",
+  "name": "Russia",
+  "iso2": "ru",
+  "lat": 66.4167,
+  "lon": 94.25,
+  "wikiTitle": "Russia"
+ },
+ {
+  "qid": "Q1037",
+  "name": "Rwanda",
+  "iso2": "rw",
+  "lat": -2,
+  "lon": 30,
+  "wikiTitle": "Rwanda"
+ },
+ {
+  "qid": "Q851",
+  "name": "Saudi Arabia",
+  "iso2": "sa",
+  "lat": 23.7167,
+  "lon": 44.1167,
+  "wikiTitle": "Saudi_Arabia"
+ },
+ {
+  "qid": "Q1041",
+  "name": "Senegal",
+  "iso2": "sn",
+  "lat": 14.3667,
+  "lon": -14.2833,
+  "wikiTitle": "Senegal"
+ },
+ {
+  "qid": "Q403",
+  "name": "Serbia",
+  "iso2": "rs",
+  "lat": 43.95,
+  "lon": 20.9333,
+  "wikiTitle": "Serbia"
+ },
+ {
+  "qid": "Q1044",
+  "name": "Sierra Leone",
+  "iso2": "sl",
+  "lat": 8.5,
+  "lon": -12.1,
+  "wikiTitle": "Sierra_Leone"
+ },
+ {
+  "qid": "Q334",
+  "name": "Singapore",
+  "iso2": "sg",
+  "lat": 1.3,
+  "lon": 103.8,
+  "wikiTitle": "Singapore"
+ },
+ {
+  "qid": "Q214",
+  "name": "Slovakia",
+  "iso2": "sk",
+  "lat": 48.7,
+  "lon": 19.7,
+  "wikiTitle": "Slovakia"
+ },
+ {
+  "qid": "Q215",
+  "name": "Slovenia",
+  "iso2": "si",
+  "lat": 46,
+  "lon": 15,
+  "wikiTitle": "Slovenia"
+ },
+ {
+  "qid": "Q1045",
+  "name": "Somalia",
+  "iso2": "so",
+  "lat": 6,
+  "lon": 47,
+  "wikiTitle": "Somalia"
+ },
+ {
+  "qid": "Q258",
+  "name": "South Africa",
+  "iso2": "za",
+  "lat": -29,
+  "lon": 24,
+  "wikiTitle": "South_Africa"
+ },
+ {
+  "qid": "Q884",
+  "name": "South Korea",
+  "iso2": "kr",
+  "lat": 36,
+  "lon": 128,
+  "wikiTitle": "South_Korea"
+ },
+ {
+  "qid": "Q958",
+  "name": "South Sudan",
+  "iso2": "ss",
+  "lat": 7,
+  "lon": 30,
+  "wikiTitle": "South_Sudan"
+ },
+ {
+  "qid": "Q29",
+  "name": "Spain",
+  "iso2": "es",
+  "lat": 40.2,
+  "lon": -3.5,
+  "wikiTitle": "Spain"
+ },
+ {
+  "qid": "Q854",
+  "name": "Sri Lanka",
+  "iso2": "lk",
+  "lat": 7,
+  "lon": 81,
+  "wikiTitle": "Sri_Lanka"
+ },
+ {
+  "qid": "Q1049",
+  "name": "Sudan",
+  "iso2": "sd",
+  "lat": 15,
+  "lon": 32,
+  "wikiTitle": "Sudan"
+ },
+ {
+  "qid": "Q34",
+  "name": "Sweden",
+  "iso2": "se",
+  "lat": 61,
+  "lon": 15,
+  "wikiTitle": "Sweden"
+ },
+ {
+  "qid": "Q39",
+  "name": "Switzerland",
+  "iso2": "ch",
+  "lat": 46.7986,
+  "lon": 8.232,
+  "wikiTitle": "Switzerland"
+ },
+ {
+  "qid": "Q858",
+  "name": "Syria",
+  "iso2": "sy",
+  "lat": 35.2167,
+  "lon": 38.5833,
+  "wikiTitle": "Syria"
+ },
+ {
+  "qid": "Q865",
+  "name": "Taiwan",
+  "iso2": "tw",
+  "lat": 24,
+  "lon": 121,
+  "wikiTitle": "Taiwan"
+ },
+ {
+  "qid": "Q863",
+  "name": "Tajikistan",
+  "iso2": "tj",
+  "lat": 38.5833,
+  "lon": 71.3667,
+  "wikiTitle": "Tajikistan"
+ },
+ {
+  "qid": "Q924",
+  "name": "Tanzania",
+  "iso2": "tz",
+  "lat": -6.3069,
+  "lon": 34.8539,
+  "wikiTitle": "Tanzania"
+ },
+ {
+  "qid": "Q869",
+  "name": "Thailand",
+  "iso2": "th",
+  "lat": 14,
+  "lon": 101,
+  "wikiTitle": "Thailand"
+ },
+ {
+  "qid": "Q945",
+  "name": "Togo",
+  "iso2": "tg",
+  "lat": 8.25,
+  "lon": 1.1833,
+  "wikiTitle": "Togo"
+ },
+ {
+  "qid": "Q948",
+  "name": "Tunisia",
+  "iso2": "tn",
+  "lat": 34,
+  "lon": 10,
+  "wikiTitle": "Tunisia"
+ },
+ {
+  "qid": "Q43",
+  "name": "Turkey",
+  "iso2": "tr",
+  "lat": 39,
+  "lon": 36,
+  "wikiTitle": "Turkey"
+ },
+ {
+  "qid": "Q874",
+  "name": "Turkmenistan",
+  "iso2": "tm",
+  "lat": 39,
+  "lon": 60,
+  "wikiTitle": "Turkmenistan"
+ },
+ {
+  "qid": "Q1036",
+  "name": "Uganda",
+  "iso2": "ug",
+  "lat": 1.28,
+  "lon": 32.39,
+  "wikiTitle": "Uganda"
+ },
+ {
+  "qid": "Q212",
+  "name": "Ukraine",
+  "iso2": "ua",
+  "lat": 49,
+  "lon": 32,
+  "wikiTitle": "Ukraine"
+ },
+ {
+  "qid": "Q878",
+  "name": "United Arab Emirates",
+  "iso2": "ae",
+  "lat": 24.4,
+  "lon": 54.3,
+  "wikiTitle": "United_Arab_Emirates"
+ },
+ {
+  "qid": "Q145",
+  "name": "United Kingdom",
+  "iso2": "gb",
+  "lat": 54.6,
+  "lon": -2,
+  "wikiTitle": "United_Kingdom"
+ },
+ {
+  "qid": "Q30",
+  "name": "United States",
+  "iso2": "us",
+  "lat": 39.8282,
+  "lon": -98.5795,
+  "wikiTitle": "United_States"
+ },
+ {
+  "qid": "Q77",
+  "name": "Uruguay",
+  "iso2": "uy",
+  "lat": -33,
+  "lon": -56,
+  "wikiTitle": "Uruguay"
+ },
+ {
+  "qid": "Q265",
+  "name": "Uzbekistan",
+  "iso2": "uz",
+  "lat": 41,
+  "lon": 66,
+  "wikiTitle": "Uzbekistan"
+ },
+ {
+  "qid": "Q717",
+  "name": "Venezuela",
+  "iso2": "ve",
+  "lat": 8,
+  "lon": -67,
+  "wikiTitle": "Venezuela"
+ },
+ {
+  "qid": "Q881",
+  "name": "Vietnam",
+  "iso2": "vn",
+  "lat": 16,
+  "lon": 108,
+  "wikiTitle": "Vietnam"
+ },
+ {
+  "qid": "Q805",
+  "name": "Yemen",
+  "iso2": "ye",
+  "lat": 15.5,
+  "lon": 48,
+  "wikiTitle": "Yemen"
+ },
+ {
+  "qid": "Q953",
+  "name": "Zambia",
+  "iso2": "zm",
+  "lat": -14,
+  "lon": 28,
+  "wikiTitle": "Zambia"
+ },
+ {
+  "qid": "Q954",
+  "name": "Zimbabwe",
+  "iso2": "zw",
+  "lat": -19,
+  "lon": 30,
+  "wikiTitle": "Zimbabwe"
+ }
+]
