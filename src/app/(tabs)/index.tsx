@@ -76,9 +76,9 @@ export default function Today() {
           </View>
         </Animated.View>
 
-        <Animated.View entering={enter(1)}>
-          <Text style={type.display} accessibilityRole="header">
-            {greeting()},{'\n'}
+        <Animated.View entering={enter(1)} style={styles.hello} accessible accessibilityRole="header" accessibilityLabel={`${greeting()}, ${playerName}`}>
+          <Text style={styles.greeting}>{greeting()},</Text>
+          <Text style={styles.player} numberOfLines={1} adjustsFontSizeToFit minimumFontScale={0.7}>
             {playerName}
           </Text>
         </Animated.View>
@@ -160,6 +160,9 @@ const styles = StyleSheet.create({
   content: { paddingHorizontal: space.xl, gap: space.xl },
   topBar: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
   brand: { flexDirection: 'row', alignItems: 'center', gap: 8 },
+  hello: { marginBottom: space.sm },
+  greeting: { ...type.support, fontSize: 22, lineHeight: 28 },
+  player: { ...type.display, fontFamily: font.serifBold, fontSize: 44, lineHeight: 50, letterSpacing: -1 },
   streak: {
     flexDirection: 'row',
     alignItems: 'center',
