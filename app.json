@@ -30,7 +30,8 @@
     ],
     "scheme": "wikidaily",
     "experiments": {
-      "typedRoutes": false
+      "typedRoutes": false,
+      "baseUrl": "/WikiGame"
     }
   }
 }
